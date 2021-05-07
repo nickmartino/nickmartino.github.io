@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ciao, this is Nick!
+This is my amazing space in Github...stay tuned...
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+No more information.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[notanemail @ notadomain.com](mailto:notanemail @ notadomain.com)
